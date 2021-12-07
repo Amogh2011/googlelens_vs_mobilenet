@@ -1,0 +1,45 @@
+body {
+	background-color:cyan;
+    text-align: center;
+}
+
+#glimg
+{
+    height: 100px;
+    width:100px;
+}
+
+.copy_right_footer {
+   position: fixed;
+   color:aqua;
+   bottom: 0;
+   width: 100%;
+   background-color:gold;
+   line-height: 3;
+   text-align: center;
+     font-family: 'Special Elite', cursive;
+
+}
+ol h5
+{
+	background: yellow;
+    padding: 13px;
+    border-radius: 20px;
+}
+span
+{
+	color:goldenrod;
+	font-size: 25px;
+}	
+li img
+{
+	border-radius: 20px;
+}
+.bob
+{
+	background:grey;
+	padding: 30px;
+	border-radius: 20px;
+	margin-top: 50px;
+	box-shadow: 5px 5px 18 red;
+}
